@@ -43,7 +43,7 @@ class perfilController extends Controller
 		 $per->estarinformadocomunidad=$request->estarinformadocomunidad;
 		 $per->estarinformadoboletin=$request->estarinformadoboletin;
 		 $per->save();
-		return view('registrar');
+		return redirect('registrar');
 		// 
 		//dd($per->estarinformadoboletin);
 

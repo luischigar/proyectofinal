@@ -91,27 +91,27 @@
     </div>
     <span class="tri-down"></span>
     <div class="ts-tray-container" >
-      <a href="http://www.techstars.com" target="_blank">
+      <a href="" target="_blank">
         <img class="logo-225" src="/images/logos/ts-logo-color.png">
       </a>
       Techstars is a global network that helps entrepeneurs succeed.
       <hr>
-      <a href="https://www.startupdigest.com" target="_blank">
+      <a href="" target="_blank">
         <img class="logo-260" src="/images/logos/sd_lockup_logo.svg">
       </a>
       A curated source for everything entrepreneurial in your community.
       <hr>
-      <a href="https://www.startupweek.co" target="_blank">
+      <a href="" target="_blank">
         <img class="logo-260" src="/images/logos/sw_lockup_logo.svg">
       </a>
       Startup Week: Celebrating entrepreneurs is communities across the globe.
       <hr>
-      <a href="https://www.startupweekend.org" target="_blank">
+      <a href="" target="_blank">
         <img class="logo-260" src="/images/logos/sw-logo-black.png">
       </a>
       Start building your future in just 54 hours. Learn, Network, Startup.
       <hr>
-      <a class="learn-more" href="http://www.techstars.com" target="_blank">
+      <a class="learn-more" href="" target="_blank">
         Learn More
       </a>
     </div>
@@ -150,7 +150,7 @@
         <div class='justified'>
           
             <div class='header__logo program-logo'>
-              <a class='header__logo-image' href='/ecuador/calceta--manabi-ecuador/startup-weekend'>
+              <a class='header__logo-image' href=''>
                 <!-- < %- @render_partial "logos/#{ @program }" %> -->
                 
                   <img src="/images/logos/sw-logo-black.png" class="logo-swe" />
@@ -168,7 +168,7 @@
 
 
 <li class='link link-startup-weekend/events no-tap up-theme-base-border-left-color'>
-  <a href="/ecuador/calceta--manabi-ecuador/startup-weekend/events" class="no-tap">Events</a>
+  <a href="" class="no-tap">Events</a>
   
 
 </li>
@@ -180,7 +180,7 @@
 
 
 <li class='link link-startup-weekend/organize no-tap up-theme-base-border-left-color'>
-  <a href="/ecuador/calceta--manabi-ecuador/startup-weekend/organize" class="no-tap">Organize</a>
+  <a href="" class="no-tap">Organize</a>
   
 
 </li>
@@ -192,24 +192,24 @@
 
 
 <li class='link link-programs no-tap up-theme-base-border-left-color'>
-  <a href="/ecuador/calceta--manabi-ecuador/programs" class="no-tap">Programs</a>
+  <a href="" class="no-tap">Programs</a>
   
   <span class='submenu-pip show-for-small'></span>
   <ul class='submenu'>
     <li class='link mobile-nav-item'>
-      <a class='no-tap' href='/ecuador/calceta--manabi-ecuador/programs'>Overview</a>
+      <a class='no-tap' href=''>Overview</a>
     </li>
     
       
       
       <li class='link on'>
-        <a href="/ecuador/calceta--manabi-ecuador/startup-weekend">Techstars Startup Weekend</a>
+        <a href="">Techstars Startup Weekend</a>
       </li>
     
       
       
       <li class='link'>
-        <a href="/ecuador/calceta--manabi-ecuador/startup-digest">Techstars Startup Digest</a>
+        <a href="">Techstars Startup Digest</a>
       </li>
     
   </ul>
@@ -224,7 +224,7 @@
 
 
 <li class='link link-startup-weekend/about no-tap up-theme-base-border-left-color'>
-  <a href="/ecuador/calceta--manabi-ecuador/startup-weekend/about" class="no-tap">About</a>
+  <a href="" class="no-tap">About</a>
   
 
 </li>
@@ -293,28 +293,6 @@
         
         <br>
         <!-- Go to www.addthis.com/dashboard to customize your tools -->
-        <div class="addthis_sharing_toolbox"></div>
-        <h3 class="header-medium">
-          Event Alerts and Updates
-        </h3>
-        <p class="gray-text">
-          
-          Get the latest on Techstars Startup Weekend, Calceta, Manabí, and other local events through Techstars Startup Digest.
-
-        </p>
-
-        
-  
-
-
-<form class="startupdigest-subscribe event-notify-form"
-  action="/forms/startupdigest-subscribe" method="post" data-ga-event='{"category": "Startup Digest", "action": "Subscribe", "label": "SW Event Details Sidebar"}'>
-  <input type="text" name="email" placeholder="your email" class="large-8 columns">
-  <input type="submit" value="Subscribe"
-    class="medium-2 large-5 columns button secondary radius">
-  <div class="clearfix"></div>
-  <p class="error_email_subscribe">Oops! Double-check that email address.</p>
-</form>
 
       </div>
     </div>
@@ -326,7 +304,7 @@
       <div
         class="full-width page-hero sw-page-hero"
         data-bg-load
-        data-src="https://www.filepicker.io/api/file/hkHxYZyS7uJQbuJHsM08?signature=2ab6842984725e1863d26848bfe6d27681fdb937c95b9ceab82ed001ebed7e8a&amp;policy=eyJleHBpcnkiOjE1NjU1NjM2MzQsImNhbGwiOlsicGljayIsInJlYWQiLCJ3cml0ZSIsInN0b3JlIiwiY29udmVydCJdfQ%3D%3D"
+        data-src=""
         >
         <div class="large-12 large-offset-1 columns page-hero__copy">
           <h1 class="header-medium sw-page-hero__heading">
@@ -354,7 +332,7 @@
 
   <li class="unavailable">
   
-    <a href="/ecuador/calceta--manabi-ecuador/" class="breadcrumb-item">Calceta, Manabí</a>
+    <a href="" class="breadcrumb-item">Calceta, Manabí</a>
   
   </li>
   
@@ -363,7 +341,7 @@
 
   <li class="unavailable">
   
-    <a href="/ecuador/calceta--manabi-ecuador/startup-weekend" class="breadcrumb-item">Startup Weekend</a>
+    <a href="" class="breadcrumb-item">Startup Weekend</a>
   
   </li>
   
@@ -372,7 +350,7 @@
 
   <li class="unavailable">
   
-    <a href="/ecuador/calceta--manabi-ecuador/startup-weekend/events" class="breadcrumb-item">Events</a>
+    <a href="" class="breadcrumb-item">Events</a>
   
   </li>
   
@@ -442,17 +420,6 @@
 
         <hr class="spacer--gutter">
 
-        
-
-
-
-  
-
-  
-  
-
-
-
 
         <div class="row">
           <div class="large-8 columns">
@@ -462,7 +429,7 @@
                   See what it's all about
                 </h2>
                 <h4>
-                  <a href="/ecuador/calceta--manabi-ecuador/startup-weekend/about">Learn More</a>
+                  <a href="">Learn More</a>
                 </h4>
               </div>
             </div>
@@ -529,7 +496,7 @@
       <div class="full-width" data-section-content
         id="schedule-accordion-1">
         <div class="row">
-          <div <div class='large-14 large-offset-1 columns'>
+          <div class='large-14 large-offset-1 columns'>
             
               <br>
 <div class="row">
@@ -675,7 +642,7 @@
       <div class="full-width" data-section-content
         id="schedule-accordion-2">
         <div class="row">
-          <div <div class='large-14 large-offset-1 columns'>
+          <div class='large-14 large-offset-1 columns'>
             
               <br>
 <div class="row">
@@ -821,7 +788,7 @@
       <div class="full-width" data-section-content
         id="schedule-accordion-3">
         <div class="row">
-          <div <div class='large-14 large-offset-1 columns'>
+          <div class='large-14 large-offset-1 columns'>
             
               <br>
 <div class="row">
@@ -993,19 +960,19 @@
       
   
   
-    <a href="https://facebook.com/Giannella.Espinoza" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-facebook font-18"></a>
   
 
   
   
-    <a href="https://twitter.com/GiaEspinoza" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-twitter font-18"></a>
   
 
   
   
-    <a href="https://linkedin.com/giannellaespinoza" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-linkedin font-18"></a>
   
 
@@ -1068,13 +1035,13 @@
       
   
   
-    <a href="https://facebook.com/josemaor" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-facebook font-18"></a>
   
 
   
   
-    <a href="https://twitter.com/kernelon" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-twitter font-18"></a>
   
 
@@ -1176,18 +1143,18 @@
 
   
   
-    <a href="https://twitter.com/Ipipos" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-twitter font-18"></a>
   
 
   
   
-    <a href="https://linkedin.com/in/alfonso-thomas-loor-vera-430856ba" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-linkedin font-18"></a>
   
 
 
-  <a href="https://thomasklz.github.io/" target="_blank" class="fa fa-home"></a>
+  <a href="" target="_blank" class="fa fa-home"></a>
 
 
     </h2>
@@ -1218,13 +1185,13 @@ y Arquitecto de Software.&nbsp;Desarrollador&nbsp;de aplicaciones web y móvil.
 
   
   
-    <a href="https://twitter.com/joramopi" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-twitter font-18"></a>
   
 
   
   
-    <a href="https://linkedin.com/https://www.linkedin.com/in/joramopi/" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-linkedin font-18"></a>
   
 
@@ -1318,7 +1285,7 @@ y Arquitecto de Software.&nbsp;Desarrollador&nbsp;de aplicaciones web y móvil.
       
   
   
-    <a href="https://facebook.com/baly.vera.9" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-facebook font-18"></a>
   
 
@@ -1527,7 +1494,7 @@ Es una Institución de Educación Superior (IES), que busca la formación integr
   
   
   
-    <a href="https://facebook.com/violeta.morancarofilis" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-facebook font-18"></a>
   
 
@@ -1555,7 +1522,7 @@ Es una Institución de Educación Superior (IES), que busca la formación integr
   
   
   
-    <a href="https://facebook.com/baly.vera.9" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-facebook font-18"></a>
   
 
@@ -1611,18 +1578,18 @@ Es una Institución de Educación Superior (IES), que busca la formación integr
 
   
   
-    <a href="https://twitter.com/Ipipos" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-twitter font-18"></a>
   
 
   
   
-    <a href="https://linkedin.com/in/alfonso-thomas-loor-vera-430856ba" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-linkedin font-18"></a>
   
 
 
-  <a href="https://thomasklz.github.io/" target="_blank" class="fa fa-home"></a>
+  <a href="" target="_blank" class="fa fa-home"></a>
 
 
 </li>
@@ -1659,13 +1626,13 @@ Es una Institución de Educación Superior (IES), que busca la formación integr
 
   
   
-    <a href="https://twitter.com/carliolives" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-twitter font-18"></a>
   
 
   
   
-    <a href="https://linkedin.com/in/carla-olives/" target="_blank"
+    <a href="" target="_blank"
       class="fa fa-linkedin font-18"></a>
   
 
@@ -1728,34 +1695,34 @@ Es una Institución de Educación Superior (IES), que busca la formación integr
         <div class="small-half-column large-5 columns">
           <h3>Calceta, Manabí</h3>
           <ul class="undecorated-list">
-            <li><a href="/ecuador/calceta--manabi-ecuador">Home</a></li>
-            <li><a href="/ecuador/calceta--manabi-ecuador/about">Information</a></li>
+            <li><a href="">Home</a></li>
+            <li><a href="">Information</a></li>
             
-            <li><a href="/ecuador/calceta--manabi-ecuador/get-involved">Get Involved</a></li>
-            <li><a href="/ecuador/calceta--manabi-ecuador/blog">Blog</a></li>
-            <li><a href="http://www.techstars.com/privacy-policy" target="_blank">Privacy Policy</a></li>
-            <li><a href="http://www.techstars.com/terms-of-use/" target="_blank">Terms of Use</a></li>
+            <li><a href="">Get Involved</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="" target="_blank">Privacy Policy</a></li>
+            <li><a href="" target="_blank">Terms of Use</a></li>
           </ul>
         </div>
 
         <div class="small-half-column large-5 columns">
           <h3>Our Programs</h3>
           <ul class="undecorated-list">
-            <li><a href="/ecuador/calceta--manabi-ecuador/programs">Overview</a></li>
-            <li><a href="/ecuador/calceta--manabi-ecuador/startup-weekend">Startup Weekend</a></li>
+            <li><a href="">Overview</a></li>
+            <li><a href="">Startup Weekend</a></li>
             
-            <li><a href="/ecuador/calceta--manabi-ecuador/startup-digest">Techstars Startup Digest</a></li>
+            <li><a href="">Techstars Startup Digest</a></li>
           </ul>
         </div>
 
         <div class="small-15 large-5 columns">
           <h3>Connect</h3>
           <ul class="undecorated-list">
-            <li><a href="/ecuador/calceta--manabi-ecuador/leaders">Calceta, Manabí Leaders</a></li>
-            <li><a href="http://www.techstars.com" target="_blank">Techstars</a></li>
-            <li><a href="http://www.techstars.com/jobs/">Careers</a></li>
-            <li><a href="https://www.facebook.com/techstars" target="_blank">Facebook</a></li>
-            <li><a href="https://twitter.com/techstars" target="_blank">Twitter</a></li>
+            <li><a href="">Calceta, Manabí Leaders</a></li>
+            <li><a href="" target="_blank">Techstars</a></li>
+            <li><a href="">Careers</a></li>
+            <li><a href="" target="_blank">Facebook</a></li>
+            <li><a href="" target="_blank">Twitter</a></li>
           </ul>
         </div>
       </div><!-- .row -->
@@ -1827,7 +1794,7 @@ Es una Institución de Educación Superior (IES), que busca la formación integr
                 </li>
                 
                 <li>
-                  <a href="http://www.startup.google.com/" target="_blank" title="Google for Startups">
+                  <a href="" target="_blank" title="Google for Startups">
                     <img src="/images/logos/partners/GoogleForStartupsLarge.png" />
                   </a>
                 </li>
